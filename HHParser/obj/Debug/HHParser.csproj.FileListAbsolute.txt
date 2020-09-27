@@ -1,0 +1,16 @@
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\HHParser.exe.config
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\HHParser.exe
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\HHParser.pdb
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\AngleSharp.dll
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\AngleSharp.xml
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.csprojAssemblyReference.cache
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.Form1.resources
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.Properties.Resources.resources
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.csproj.GenerateResource.cache
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.csproj.CoreCompileInputs.cache
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.csproj.CopyComplete
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.exe
+C:\Users\Paxom4ik\source\repos\HHParser\HHParser\obj\Debug\HHParser.pdb
